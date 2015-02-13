@@ -1,0 +1,15 @@
+C:\Users\bl0804\documents\visual studio 2010\Projects\Buscaminas\Buscaminas\bin\Debug\Buscaminas.exe
+C:\Users\bl0804\documents\visual studio 2010\Projects\Buscaminas\Buscaminas\bin\Debug\Buscaminas.pdb
+C:\Users\bl0804\documents\visual studio 2010\Projects\Buscaminas\Buscaminas\obj\x86\Debug\Buscaminas.Form1.resources
+C:\Users\bl0804\documents\visual studio 2010\Projects\Buscaminas\Buscaminas\obj\x86\Debug\Buscaminas.Properties.Resources.resources
+C:\Users\bl0804\documents\visual studio 2010\Projects\Buscaminas\Buscaminas\obj\x86\Debug\Buscaminas.csproj.GenerateResource.Cache
+C:\Users\bl0804\documents\visual studio 2010\Projects\Buscaminas\Buscaminas\obj\x86\Debug\Buscaminas.exe
+C:\Users\bl0804\documents\visual studio 2010\Projects\Buscaminas\Buscaminas\obj\x86\Debug\Buscaminas.pdb
+C:\Users\kate\Downloads\Buscaminas\Buscaminas\Buscaminas\obj\x86\Debug\Buscaminas.exe
+C:\Users\kate\Downloads\Buscaminas\Buscaminas\Buscaminas\obj\x86\Debug\Buscaminas.pdb
+C:\Users\kate\Downloads\Buscaminas\Buscaminas\Buscaminas\bin\Debug\Buscaminas.exe
+C:\Users\kate\Downloads\Buscaminas\Buscaminas\Buscaminas\bin\Debug\Buscaminas.pdb
+C:\Users\kate\Downloads\Buscaminas\Buscaminas\Buscaminas\obj\x86\Debug\Buscaminas.Form1.resources
+C:\Users\kate\Downloads\Buscaminas\Buscaminas\Buscaminas\obj\x86\Debug\Buscaminas.Properties.Resources.resources
+C:\Users\kate\Downloads\Buscaminas\Buscaminas\Buscaminas\obj\x86\Debug\Buscaminas.csproj.GenerateResource.Cache
+C:\Users\kate\Downloads\Buscaminas\Buscaminas\Buscaminas\obj\x86\Debug\Buscaminas.csprojResolveAssemblyReference.cache
